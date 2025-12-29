@@ -68,4 +68,3 @@ Public domain / do whatever. No warranty, use at your own risk.
 
 Made because I was bored and wanted to see how fast I could make it.
 
-— Some dude who hates waiting for memory to zero, Dec 2025
