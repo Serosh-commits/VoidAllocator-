@@ -11,7 +11,7 @@ class VoidArena {
     char* base;
     char* ptr;
     char* limit;
-    const size_t arena_size = 1ULL << 30;  // 1GB — fixed the shift
+    const size_t arena_size = 1ULL << 30;  
 
 public:
     VoidArena() {
